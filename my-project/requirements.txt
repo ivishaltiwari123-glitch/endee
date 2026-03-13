@@ -1,0 +1,6 @@
+endee
+sentence-transformers
+groq
+streamlit
+pandas
+PyPDF2
