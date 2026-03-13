@@ -21,16 +21,16 @@ Misinformation spreads faster than truth. Fact-checking manually is slow and req
 ## 📸 Screenshots
 
 ### Verdict
-![Verdict](screenshots/verdict.png)
+![Verdict](Screenshots/verdict.png)
 
 ### AI Analysis
-![Analysis](screenshots/analysis.png)
+![Analysis](Screenshots/analysis.png)
 
 ### Evidence 1
-![Evidence 1](screenshots/Evidence_1.png)
+![Evidence 1](Screenshots/Evidence_1.png)
 
 ### Evidence 2
-![Evidence 2](screenshots/Evidence_2.png)
+![Evidence 2](Screenshots/Evidence_2.png)
 ---
 
 ## 🏗️ System Design
